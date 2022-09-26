@@ -1,5 +1,4 @@
 <p align="center" width="200">
-   <img align="center" width="500" src="p2oileen.jpg" />
    <h3 align="center">Hi 🤪! This is P2Oileen</h3>
    <p align="center"> <a href="https://scholar.google.com/citations?user=LM7RNL4AAAAJ&hl=en">Google Scholar</a> | <a href="https://www.zhihu.com/people/ai-lin-24-71-19">ZhiHu</a> | <a href="mailto:p2oileen@whu.edu.cn">Email</a></p>
 </p>
